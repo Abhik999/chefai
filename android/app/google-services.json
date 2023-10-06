@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "254205857418",
+    "firebase_url": "https://fridge-finds-default-rtdb.firebaseio.com",
+    "project_id": "fridge-finds",
+    "storage_bucket": "fridge-finds.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254205857418:android:a70187bcdc6d5defa96773",
+        "android_client_info": {
+          "package_name": "com.chefai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbZSqb-Jp43or42UOXuua3NyjnZS2G2Lw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
